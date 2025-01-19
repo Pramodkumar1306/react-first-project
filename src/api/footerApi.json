@@ -1,0 +1,19 @@
+[
+    {
+        "icon": "FaLocationPin",
+        "title" : "Find Us",
+        "detials" : "pune"
+    }
+    ,
+    {
+        "icon": "IoCall",
+        "title" : "Call Us",
+        "detials" : "7349407415"
+    }
+    ,
+    {
+        "icon": "IoMail",
+        "title" : "Mail Us",
+        "detials" : "pramod73kumar7415@gmail.com"
+    }
+]

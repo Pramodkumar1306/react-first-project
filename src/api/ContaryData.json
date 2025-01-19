@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "countryName": "Russia",
+        "population": 1324216107,
+        "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+    {
+        "id": 2,
+        "countryName": "India",
+        "population": 1407563841,
+        "interestingFact": "India is the second most populous country and is known for its diverse cultures, languages, and traditions."
+    },
+    {
+        "id": 3,
+        "countryName": "China",
+        "population": 1411778724,
+        "interestingFact": "China is the world's most populous country and has a rich history that spans thousands of years."
+    },
+    {
+        "id": 4,
+        "countryName": "USA",
+        "population": 331002651,
+        "interestingFact": "The United States is known for its vast cultural diversity, technological advancements, and historical landmarks."
+    },
+    {
+        "id": 5,
+        "countryName": "Brazil",
+        "population": 212559417,
+        "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+        "id": 6,
+        "countryName": "Canada",
+        "population": 37742154,
+        "interestingFact": "Canada has the longest coastline in the world and is known for its beautiful national parks."
+    },
+    {
+        "id": 7,
+        "countryName": "Australia",
+        "population": 25499884,
+        "interestingFact": "Australia is famous for its unique wildlife, including kangaroos and koalas, and is also known for its Great Barrier Reef."
+    },
+    {
+        "id": 8,
+        "countryName": "Germany",
+        "population": 83783942,
+        "interestingFact": "Germany is known for its rich history, technological innovations, and contributions to art, philosophy, and science."
+    },
+    {
+        "id": 9,
+        "countryName": "Japan",
+        "population": 126856000,
+        "interestingFact": "Japan is known for its ancient traditions and modern technology, and it has the world's oldest continuous monarchy."
+    },
+    {
+        "id": 10,
+        "countryName": "France",
+        "population": 67081000,
+        "interestingFact": "France is famous for its cultural influence, cuisine, fashion, and landmarks like the Eiffel Tower."
+    },
+    {
+        "id": 11,
+        "countryName": "Italy",
+        "population": 59554023,
+        "interestingFact": "Italy is home to the Vatican City, the smallest country in the world, and is famous for its art, history, and cuisine."
+    },
+    {
+        "id": 12,
+        "countryName": "United Kingdom",
+        "population": 68207114,
+        "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+        "id": 13,
+        "countryName": "South Africa",
+        "population": 59308690,
+        "interestingFact": "South Africa is known as the 'Rainbow Nation' for its cultural diversity and has three capital cities."
+    },
+    {
+        "id": 14,
+        "countryName": "Mexico",
+        "population": 128932753,
+        "interestingFact": "Mexico is home to ancient Mayan and Aztec civilizations and is famous for its vibrant festivals like Día de los Muertos."
+    },
+    {
+        "id": 15,
+        "countryName": "Argentina",
+        "population": 45605823,
+        "interestingFact": "Argentina is known for its tango dance and music and is the eighth-largest country in the world by area."
+    },
+    {
+        "id": 16,
+        "countryName": "Egypt",
+        "population": 109262978,
+        "interestingFact": "Egypt is famous for its ancient pyramids and is home to one of the world's oldest civilizations."
+    },
+    {
+        "id": 17,
+        "countryName": "Saudi Arabia",
+        "population": 35862418,
+        "interestingFact": "Saudi Arabia is home to Mecca and Medina, two of the holiest cities in Islam."
+    },
+    {
+        "id": 18,
+        "countryName": "South Korea",
+        "population": 51780579,
+        "interestingFact": "South Korea is known for its advancements in technology, K-pop culture, and delicious cuisine like kimchi."
+    }
+]

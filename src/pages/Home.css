@@ -1,0 +1,29 @@
+.hero-section{
+    
+    padding-top: 80px;
+    display: flex ;
+    justify-content: center;
+   
+}
+
+.grid-two-cols {
+    width: 70%;
+    height: 400px;
+
+    display: inline-block;
+    display: flex;
+    position: relative;
+}
+ .heading-xl{
+    font-size:50px;
+ }
+
+.paragraph {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hero-image img{
+    background-size: cover
+    
+}
