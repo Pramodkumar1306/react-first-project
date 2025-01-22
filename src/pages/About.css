@@ -1,6 +1,12 @@
+body{
+    /* overflow-y: hidden;
+    overflow-x: hidden; */
+}
+
 .section-about{
     margin-top: 25px;
     text-align: center;
+    
 }
 
 .text-about {
